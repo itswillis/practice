@@ -1,0 +1,3 @@
+Europe:UK
+America:US
+Oceania:AU,FJ,CK
